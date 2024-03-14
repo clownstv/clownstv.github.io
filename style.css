@@ -5,7 +5,7 @@ html, body {
 body {
     background-color: crimson;
     font-family: 'kalameh';
-    font-size: 60px;
+    /* font-size: 60px; */
     /* font-variant: small-caps; */
     margin: 0;
     display: flex;
@@ -22,6 +22,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 30px;
 }
 
 #head1 {
@@ -71,11 +72,12 @@ body {
     justify-content: center;
     border: 3px solid rgb(128, 128, 254);
     border-top: 10px solid black;
-    width: 70px;
+    width: 80px;
     text-align: center;
     background-color: rgb(255, 85, 0);
     overflow: hidden;
     flex-shrink: 0;
+    font-size: 60px;
 }
 
 #main-left {
@@ -122,4 +124,5 @@ body {
     border-radius: 20px;
     border: 5px solid green;
     text-align: center;
+    font-size: 60px;
 }
