@@ -1,7 +1,7 @@
 let clowns = [
     {
         name:"استاکر و دوستان",
-        pic:"./images/enemy.png",
+        pic:"./images/c1.png",
         movie:"../movies/r99.mp4",
         page:"./pages/r99.html"
     },
