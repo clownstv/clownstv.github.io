@@ -5,6 +5,12 @@ let clowns = [
         movie:"../movies/r99.mp4",
         page:"./pages/r99.html"
     },
+    {
+        name:"بردیا به زودی",
+        pic:"./images/c1.png",
+        movie:"",
+        page:""
+    },
 
 ]
 let a = document.getElementById("main-center")
