@@ -7,7 +7,7 @@ let clowns = [
     },
     {
         name:"بردیا و دوستان",
-        pic:"./images/c2.png",
+        pic:"./images/c2n.png",
         movie:"",
         page:"./pages/bardia.html"
     },
