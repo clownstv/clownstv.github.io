@@ -6,10 +6,10 @@ let clowns = [
         page:"./pages/r99.html"
     },
     {
-        name:"بردیا به زودی",
-        pic:"./images/c1.png",
+        name:"بردیا و دوستان",
+        pic:"./images/c2.png",
         movie:"",
-        page:""
+        page:"./pages/bardia.html"
     },
 
 ]
